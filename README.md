@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech Computer Science student with a solid foundation in Java, Data Structures & Algorithms, and backend development, driven to build scalable and reliable software systems.<br><br>🤖 Strong interest in AI & Generative AI, with hands-on experience in projects involving LLMs, automation, and intelligent system design.<br><br>🛠️ Experienced in working with Spring Boot, REST APIs, Git, Docker, SQL, and agile tools like Jira, with a focus on clean code and problem-solving.<br><br>🚀 Highly motivated learner actively preparing for internships and full-time roles, committed to continuous improvement, real-world projects, and industry-ready skills.
+🎓 B.Tech Computer Science student with a solid foundation in Java,Python, Data Structures & Algorithms, and backend development, driven to build scalable and reliable software systems.<br><br>🤖 Strong interest in AI & Generative AI, with hands-on experience in projects involving LLMs, automation, and intelligent system design.<br><br>🛠️ Experienced in working with Spring Boot, REST APIs, Git, Docker, SQL, and agile tools like Jira, with a focus on clean code and problem-solving.<br><br>🚀 Highly motivated learner actively preparing for internships and full-time roles, committed to continuous improvement, real-world projects, and industry-ready skills.
 
 
 ## 🌐 Socials:
